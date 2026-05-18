@@ -85,6 +85,7 @@ An agribusiness venture focused on:
 
 - LinkedIn: [linkedin.com/in/matthewtuurozeeng](https://www.linkedin.com/in/matthewtuurozeeng/)
 - Email: tuurozeengmatthew@gmail.com
+- Portfolio: [Matthew Tuurozeeng (https://matthew-tuurozeeng-digital-portfoli.vercel.app/)
 
 ---
 
