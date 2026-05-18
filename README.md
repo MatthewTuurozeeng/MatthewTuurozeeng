@@ -6,17 +6,17 @@ I design software products that combine engineering rigor with user-centered des
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Computer Science Student at Ashesi University, Ghana
-- 💻 Experienced with React, Java, Python,C++, and Git
-- 🌱 Founder & CEO of Sensorba LTD
-- 🌍 Interested in scalable technology and sustainable agriculture
-- 📚 Currently exploring backend systems, APIs, and mobile app architecture
+- Computer Science Student at Ashesi University, Ghana
+- Experienced with React, Java, Python,C++, and Git
+- Founder & CEO of Sensorba LTD
+- Interested in scalable technology and sustainable agriculture
+- Currently exploring backend systems, APIs, and mobile app architecture
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 - Java
@@ -36,6 +36,8 @@ I design software products that combine engineering rigor with user-centered des
 - Git & GitHub
 - Firebase
 - REST APIs
+- Trello
+- Plantuml
 
 ### Currently Learning
 - Mobile App Development
@@ -45,27 +47,28 @@ I design software products that combine engineering rigor with user-centered des
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 📱 Mobile Application Project
-Building a mobile application with React Native focused on solving real user problems through intuitive and scalable design.
 
-### 🎓 Student Management System
-A comprehensive academic management platform for:
-- Student registration
-- Attendance tracking
-- Grade management
-- Notifications and analytics
+### Daakye Vendor Space
+An inventory and sales management web application built for Ghanaian market vendors to manage stock, record sales, track orders, and monitor business performance. Features real-time low-stock alerts, analytics dashboards, and a scalable RESTful backend optimised for low-end devices and slow internet connections.
 
-### 📘 Discrete Mathematics Learning Platform
-An interactive platform that helps students learn:
-- Set Theory
-- Logic
-- Boolean Algebra
-- Conditional Statements
-- Mathematical Reasoning
+---
 
-### 🌱 Sensorba Ltd
+### Personal Professional Platform
+A full-stack portfolio platform with a custom admin dashboard, media uploads, and dynamic content management for managing professional information and online presence.
+
+---
+
+### School Website — Machris Christian Academy
+A modern and responsive school website for managing admissions, enquiries, and school information, with administrative tools for handling applications and communication.
+
+---
+
+### Ashesi Course Management System
+A web-based course administration and attendance tracking platform that allows faculty to manage courses and attendance sessions, while enabling students to join courses, mark attendance, and track records.
+
+### Sensorba Ltd
 An agribusiness venture focused on:
 - Large-scale tiger nut farming
 - Sustainable agricultural practices
@@ -73,22 +76,20 @@ An agribusiness venture focused on:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewTuurozeeng&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewTuurozeeng&layout=compact)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewTuurozeeng&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewTuurozeeng&layout=compact&theme=tokyonight)
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - LinkedIn: [linkedin.com/in/matthewtuurozeeng](https://www.linkedin.com/in/matthewtuurozeeng/)
 - Email: tuurozeengmatthew@gmail.com
 
 ---
 
-## 💡 Philosophy
+## Philosophy
 
 > Build solutions that create impact, empower people, and scale sustainably.
 
