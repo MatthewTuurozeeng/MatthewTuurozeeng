@@ -74,13 +74,12 @@ An agribusiness venture focused on:
 - Sustainable agricultural practices
 - Future tiger nut processing and value addition
 
----
+<!-- 
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewTuurozeeng&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewTuurozeeng&layout=compact&theme=tokyonight)
----
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewTuurozeeng&show_icons=true&theme=tokyonight) --> 
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewTuurozeeng&layout=compact&theme=tokyonight)-->
 
 ## Connect With Me
 
