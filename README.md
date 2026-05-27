@@ -1,6 +1,6 @@
 # Hi, I am Matthew Tuurozeeng 👋
 
-### Software Engineer | Product Builder | Full-Stack Developer | Agritech Entrepreneur
+### Software Engineer | Product Builder | Agritech Entrepreneur
 
 I design software products that combine engineering rigor with user-centered design. I enjoy building platforms that empower communities, streamline workflows, and scale with modern cloud tooling. 
 
@@ -55,18 +55,9 @@ An inventory and sales management web application built for Ghanaian market vend
 
 ---
 
-### Personal Professional Platform
-A full-stack portfolio platform with a custom admin dashboard, media uploads, and dynamic content management for managing professional information and online presence.
-
----
-
 ### School Website — Machris Christian Academy
 A modern and responsive school website for managing admissions, enquiries, and school information, with administrative tools for handling applications and communication.
 
----
-
-### Ashesi Course Management System
-A web-based course administration and attendance tracking platform that allows faculty to manage courses and attendance sessions, while enabling students to join courses, mark attendance, and track records.
 
 ### Sensorba Ltd
 An agribusiness venture focused on:
