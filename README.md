@@ -57,7 +57,7 @@ An inventory and sales management web application built for Ghanaian market vend
 
 ### School Website — Machris Christian Academy
 A modern and responsive school website for managing admissions, enquiries, and school information, with administrative tools for handling applications and communication.
-
+---
 
 ### Sensorba Ltd
 An agribusiness venture focused on:
