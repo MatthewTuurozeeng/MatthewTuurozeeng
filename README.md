@@ -12,7 +12,7 @@ I design software products that combine engineering rigor with user-centered des
 - Experienced with React, Java, Python,C++, and Git
 - Founder & CEO of Sensorba LTD
 - Interested in scalable technology and sustainable agriculture
-- Currently exploring backend systems, APIs, and mobile app architecture
+- Exploring backend systems, APIs, and mobile app architecture
 
 ---
 
@@ -58,15 +58,7 @@ An inventory and sales management web application built for Ghanaian market vend
 ### School Website — Machris Christian Academy
 A modern and responsive school website for managing admissions, enquiries, and school information, with administrative tools for handling applications and communication.
 
-
-### Sensorba Ltd
-An agribusiness venture focused on:
-- Large-scale tiger nut farming
-- Sustainable agricultural practices
-- Future tiger nut processing and value addition
-
-<!-- 
-
+<!--
 ## GitHub Stats
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewTuurozeeng&show_icons=true&theme=tokyonight) --> 
