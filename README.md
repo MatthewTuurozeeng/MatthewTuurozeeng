@@ -68,7 +68,7 @@ A modern and responsive school website for managing admissions, enquiries, and s
 
 - LinkedIn: [linkedin.com/in/matthewtuurozeeng](https://www.linkedin.com/in/matthewtuurozeeng/)
 - Email: tuurozeengmatthew@gmail.com
-- Portfolio: [https://matthew-tuurozeeng-digital-portfoli.vercel.app/](https://matthew-tuurozeeng-digital-portfoli.vercel.app/)
+- Portfolio: [https://matthew-tuurozeeng.vercel.app/](https://matthew-tuurozeeng.vercel.app/)
 
 ---
 
