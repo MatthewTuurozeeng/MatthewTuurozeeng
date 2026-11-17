@@ -48,11 +48,11 @@ I build full-stack web applications and AI-powered tools that solve real problem
 
 ###  Live Projects
 
-** [Opportunity Hub]([repo-link])** · [Live]([live-link])
-[One sentence on what it does, e.g. "A platform that collects and organizes scholarships, internships, and fellowships in one place."]
+** [Opportunity Hub](https://github.com/MatthewTuurozeeng/Opportunity-hub)** · [Live](https://opportunity-hub-puce.vercel.app/)
+A platform that collects and organizes my applications for opportunities scholarships, internships, fellowships etc in one place.
 *Built with: React · Supabase*
 
-** [Custom Calendar]([repo-link])** · [Live]([live-link])
+** [Custom Calendar](https://github.com/MatthewTuurozeeng/calendar)** · [Live](https://calendar-two-gold.vercel.app/)
 A personal scheduling app I designed and built for my own day-to-day planning, and I use it daily. [Add 1–2 key features, e.g. "event categories, reminders, weekly view."]
 *Built with: React · Supabase*
 
@@ -62,24 +62,24 @@ My portfolio site showcasing my projects, experience, and impact work.
 
 ###  Other Projects
 
-** [Image Classifier App]([repo-link])**
+** [Image Classifier App](https://github.com/MatthewTuurozeeng/desk-sorter)**
 Trained an image classification model with Teachable Machine to recognize pens, water bottles, and phones, then built a Streamlit web app around the exported model. Users upload an image and get the predicted class with a confidence score.
 *Built with: Python · Teachable Machine · Streamlit*
 
-** [Daakye Vendor Space]([repo-link])**
+** [Daakye Vendor Space](https://github.com/MatthewTuurozeeng/local-market-inventory-and-sales-mgt-system)**
 An inventory and sales management web app for Ghanaian market vendors to manage stock, record sales, track orders, and monitor performance. Includes low-stock alerts, analytics dashboards, and a RESTful backend designed for low-end devices and slow internet connections.
 *Built with: [stack]*
 
-** [Machris Christian Academy Website]([repo-link])**: Web Technologies course project
+** [Machris Christian Academy Website](https://github.com/MatthewTuurozeeng/Machris-website)**: Web Technologies course project
 A responsive school website with admissions, enquiries, and school information, plus admin tools for managing applications and communication.
 *Built with: [stack]*
 
 ---
 
-## 🌍 Beyond Code
+##  Beyond Code
 
 - **Founder, Computing4All:** teaching foundational digital skills to 25+ schoolchildren in underserved communities
-- **Co-founder & CEO, Sensorba LTD:** agritech venture; received a $4,000 Mastercard Foundation Scholars Entrepreneurship Fund grant
+- **Co-founder & CEO, Sensorba LTD:** agritech venture
 - **Global programs:** For Youth, By Youth (FYBY) inaugural cohort (Talloires Network) · Millennium Fellow, Class of 2025
 
 ---
