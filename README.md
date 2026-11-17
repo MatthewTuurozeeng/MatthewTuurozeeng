@@ -36,7 +36,7 @@ I build full-stack web applications and AI-powered tools that solve real problem
 
 **Backend & Cloud:** Supabase · Node.js · Express · REST APIs · JWT Authentication
 
-**Databases:** PostgreSQL · MySQL · MongoDB · ChromaDB
+**Databases:** PostgreSQL · MySQL · MongoDB · ChromaDB . Cloudinary
 
 **AI / ML:** Machine Learning · NLP · RAG · Teachable Machine · Streamlit · Rasa
 
@@ -53,7 +53,7 @@ A platform that collects and organizes my applications for opportunities scholar
 *Built with: React · Supabase*
 
 ** [Custom Calendar](https://github.com/MatthewTuurozeeng/calendar)** · [Live](https://calendar-two-gold.vercel.app/)
-A personal scheduling app I designed and built for my own day-to-day planning, and I use it daily. [Add 1–2 key features, e.g. "event categories, reminders, weekly view."]
+A personal scheduling app I designed and built for my own day-to-day planning, and I use it daily. 
 *Built with: React · Supabase*
 
 ** [Personal Portfolio](https://github.com/MatthewTuurozeeng/matthew-tuurozeeng-portfolio)** · [Live](https://matthew-tuurozeeng.vercel.app/)
@@ -68,17 +68,17 @@ Trained an image classification model with Teachable Machine to recognize pens, 
 
 ** [Daakye Vendor Space](https://github.com/MatthewTuurozeeng/local-market-inventory-and-sales-mgt-system)**
 An inventory and sales management web app for Ghanaian market vendors to manage stock, record sales, track orders, and monitor performance. Includes low-stock alerts, analytics dashboards, and a RESTful backend designed for low-end devices and slow internet connections.
-*Built with: [stack]*
+*Built with: React . Node js MongoDB . Vercel*
 
 ** [Machris Christian Academy Website](https://github.com/MatthewTuurozeeng/Machris-website)**: Web Technologies course project
 A responsive school website with admissions, enquiries, and school information, plus admin tools for managing applications and communication.
-*Built with: [stack]*
+*Built with: React . Node js  . MySql(railway) . Vercel . Cloudinary*
 
 ---
 
 ##  Beyond Code
 
-- **Founder, Computing4All:** teaching foundational digital skills to 25+ schoolchildren in underserved communities
+- **Founder, Computing4All:** teaching foundational digital skills to 40+ schoolchildren in underserved communities
 - **Co-founder & CEO, Sensorba LTD:** agritech venture
 - **Global programs:** For Youth, By Youth (FYBY) inaugural cohort (Talloires Network) · Millennium Fellow, Class of 2025
 
