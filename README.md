@@ -48,29 +48,29 @@ I build full-stack web applications and AI-powered tools that solve real problem
 
 ###  Live Projects
 
-** [Opportunity Hub](https://github.com/MatthewTuurozeeng/Opportunity-hub)** · [Live](https://opportunity-hub-puce.vercel.app/)
+[Opportunity Hub](https://github.com/MatthewTuurozeeng/Opportunity-hub) · [Live](https://opportunity-hub-puce.vercel.app/)
 A platform that collects and organizes my applications for opportunities scholarships, internships, fellowships etc in one place.
 *Built with: React · Supabase*
 
-** [Custom Calendar](https://github.com/MatthewTuurozeeng/calendar)** · [Live](https://calendar-two-gold.vercel.app/)
+[Custom Calendar](https://github.com/MatthewTuurozeeng/calendar) · [Live](https://calendar-two-gold.vercel.app/)
 A personal scheduling app I designed and built for my own day-to-day planning, and I use it daily. 
 *Built with: React · Supabase*
 
-** [Personal Portfolio](https://github.com/MatthewTuurozeeng/matthew-tuurozeeng-portfolio)** · [Live](https://matthew-tuurozeeng.vercel.app/)
+[Personal Portfolio](https://github.com/MatthewTuurozeeng/matthew-tuurozeeng-portfolio) · [Live](https://matthew-tuurozeeng.vercel.app/)
 My portfolio site showcasing my projects, experience, and impact work.
 *Built with: React · TypeScript · Vite · Vercel*
 
 ###  Other Projects
 
-** [Image Classifier App](https://github.com/MatthewTuurozeeng/desk-sorter)**
+[Image Classifier App](https://github.com/MatthewTuurozeeng/desk-sorter)
 Trained an image classification model with Teachable Machine to recognize pens, water bottles, and phones, then built a Streamlit web app around the exported model. Users upload an image and get the predicted class with a confidence score.
 *Built with: Python · Teachable Machine · Streamlit*
 
-** [Daakye Vendor Space](https://github.com/MatthewTuurozeeng/local-market-inventory-and-sales-mgt-system)**
+[Daakye Vendor Space](https://github.com/MatthewTuurozeeng/local-market-inventory-and-sales-mgt-system)
 An inventory and sales management web app for Ghanaian market vendors to manage stock, record sales, track orders, and monitor performance. Includes low-stock alerts, analytics dashboards, and a RESTful backend designed for low-end devices and slow internet connections.
 *Built with: React . Node js MongoDB . Vercel*
 
-** [Machris Christian Academy Website](https://github.com/MatthewTuurozeeng/Machris-website)**: Web Technologies course project
+[Machris Christian Academy Website](https://github.com/MatthewTuurozeeng/Machris-website): Web Technologies course project
 A responsive school website with admissions, enquiries, and school information, plus admin tools for managing applications and communication.
 *Built with: React . Node js  . MySql(railway) . Vercel . Cloudinary*
 
