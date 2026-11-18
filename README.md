@@ -11,7 +11,7 @@ I build full-stack web applications and AI-powered tools that solve real problem
 -  BSc Computer Science student at **Ashesi University**, Ghana · Mastercard Foundation Scholar
 -  Building full-stack apps with **React + Supabase**, and exploring applied machine learning
 -  Learning system design, scalable backend architecture, and cloud deployment
--  Open to **software engineering internships**, and to **full-time roles from May 2027**
+-  Open to **software engineering internships, anything tech**, and to **full-time roles from May 2027**
 
 ---
 
