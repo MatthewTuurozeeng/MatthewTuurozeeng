@@ -1,17 +1,17 @@
-# Hi, I'm Matthew Tuurozeeng 👋
+# Hi, I am Matthew Tuurozeeng
 
-**Software Engineer · Full-Stack & AI · Computer Science @ Ashesi University (Class of 2027)**
+**Software Engineer · Full-Stack & AI · Computer Science @ Ashesi University**
 
 I build full-stack web applications and AI-powered tools that solve real problems, from AI customer support for a bank to everyday productivity tools I rely on myself. I care about clean architecture, accessible design, and software that works well under real-world constraints.
 
 ---
 
-##  What I'm Doing
+##  What I am Doing
 
 -  BSc Computer Science student at **Ashesi University**, Ghana · Mastercard Foundation Scholar
 -  Building full-stack apps with **React + Supabase**, and exploring applied machine learning
 -  Learning system design, scalable backend architecture, and cloud deployment
--  Open to **software engineering internships, anything tech**, and to **full-time roles from May 2027**
+-  Open to **software engineering internships, anything tech**, and to **full-time roles**
 
 ---
 
@@ -90,4 +90,4 @@ A responsive school website with admissions, enquiries, and school information, 
 [![Portfolio](https://img.shields.io/badge/Portfolio-994545?style=flat&logo=vercel&logoColor=white)](https://matthew-tuurozeeng.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuurozeengmatthew@gmail.com)
 
-> *Build solutions that create impact, empower people, and scale sustainably.*
+> *Build solutions that create value and impact, empower people, and scale sustainably.*
